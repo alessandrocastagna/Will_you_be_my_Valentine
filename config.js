@@ -63,7 +63,7 @@ animations: {
 music: {
     enabled: true, // Music feature is enabled
     autoplay: true, // Try to autoplay (note: some browsers may block this)
-    musicUrl: "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq?si=76d147c825eb4789", // Paste your music URL here
+    musicUrl: "https://res.cloudinary.com/dahidghzo/video/upload/v1770991604/Tu_Me_Quieres_Prod._by_Higashi_x_Roberto_Ferrante_duwz9s.mp3", // Paste your music URL here
     startText: "🎵 Play Music", // Button text to start music
     stopText: "🔇 Stop Music", // Button text to stop music
     volume: 0.5 // Volume level (0.0 to 1.0)
