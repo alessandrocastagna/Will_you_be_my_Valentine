@@ -1,5 +1,5 @@
-const config = {
-    valentineName: "Emi",
+
+valentineName: "Emi",
     pageTitle: "Will You Be My Valentine? 💝",
 
     floatingEmojis: {
@@ -60,5 +60,4 @@ const config = {
         startText: "🎵 Play Music",
         stopText: "🔇 Stop Music",
         volume: 0.5
-    }
-};
+    };
