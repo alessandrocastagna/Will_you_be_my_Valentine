@@ -37,8 +37,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: "Nice choice 😌",     // Celebration title
+    message: "See you tomorrow at 12:30 at Hot Pot.",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 },
 
